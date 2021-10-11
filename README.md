@@ -5,5 +5,5 @@
  2. Сохранение действий, приведших к непредвиденным последствиям (*log level* - **WARN**)
  3. Сохранение действий, приведших к выбросу исключения (*log level* - **FATAL**)
 
-# Презентация
+# ***Презентация***
  Помимо примеров в коде, также присутствует [презентация](https://docs.google.com/presentation/d/1bbFeZikVz1bAKdfOkEwpXfQcpYZUTbvOdzqMOYfNxF4/edit?usp=sharing)
